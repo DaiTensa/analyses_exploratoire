@@ -9,10 +9,12 @@ Academy, start-up de la EdTech : propose des contenus de formation en ligne pour
 
 **Analyse exploratoire :** 
 
-    * Pour savoir si les données de la banque mondiale permettent d'informer le projet d'expansion.
-    * Pays à fort potentiel de clients pour les services de la start-up ? 
-    * Pour chaque Pays quelle sera l'évolution de ce potentiel de clients ? 
-    * Dans quels pays l'entreprise doit-elle opérer en priorité ? 
+ - Pour savoir si les données de la banque mondiale permettent d'informer le projet d'expansion.
+ - Pays à fort potentiel de clients pour les services de la start-up ? 
+ - Pour chaque Pays quelle sera l'évolution de ce potentiel de clients ? 
+ - Dans quels pays l'entreprise doit-elle opérer en priorité ? 
+
+## Compétence
 
 ## Source de données
 
