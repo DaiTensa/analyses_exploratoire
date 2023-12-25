@@ -14,7 +14,13 @@ Academy, start-up de la EdTech : propose des contenus de formation en ligne pour
  - Pour chaque Pays quelle sera l'évolution de ce potentiel de clients ? 
  - Dans quels pays l'entreprise doit-elle opérer en priorité ? 
 
-## Compétence
+## Compétences
+
+ - Effectuer une représentation graphique à l'aide d'une librairie Python adaptée.
+ - Maîtriser les opérations fondamentales du langage Python pour la Data Science.
+ - Manipuler des données avec des librairies Python spécialisées.
+ - Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration.
+ - Mettre en place un environnement Python.
 
 ## Source de données
 
