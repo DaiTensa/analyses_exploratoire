@@ -5,7 +5,7 @@
 Academy, start-up de la EdTech : propose des contenus de formation en ligne pour un public de niveau Lycée et Université
  - Projet : Expansion à l'internationl de l'entreprise. 
 
-## Mission
+## Mission:
 
 **Analyse exploratoire :** 
 
@@ -14,7 +14,7 @@ Academy, start-up de la EdTech : propose des contenus de formation en ligne pour
  - Pour chaque Pays quelle sera l'évolution de ce potentiel de clients ? 
  - Dans quels pays l'entreprise doit-elle opérer en priorité ? 
 
-## Compétences
+## Compétences:
 
  - Effectuer une représentation graphique à l'aide d'une librairie Python adaptée.
  - Maîtriser les opérations fondamentales du langage Python pour la Data Science.
